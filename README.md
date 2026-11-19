@@ -35,7 +35,7 @@
     <img src="https://cdn.jsdelivr.net/gh/lucide-icons/lucide@main/icons/mail.svg"
          width="15" height="15" alt="Email">
     &nbsp;
-    <a href="mailto:emanuel.may.work@gmail.com">SEU_EMAIL</a>
+    <a href="mailto:emanuel.may.work@gmail.com">emanuel.may.work@gmail.com</a>
   </p>
 
   <p>
